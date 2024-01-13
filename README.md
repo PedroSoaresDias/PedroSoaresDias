@@ -66,12 +66,3 @@
   <img align="center" alt="PedroSoaresDias-GitHub" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="PedroSoaresDias-VisualStudioCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
-
-<!--
-  <hr>
-  
-  ### Commits
-  
-  ![Snake animation](https://github.com/PedroSoaresDias/PedroSoaresDias/blob/output/github-contribution-grid-snake.svg)
-  
--->
