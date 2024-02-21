@@ -30,7 +30,7 @@
 <h3>Como está o meu GitHub atualmente</h3>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSoaresDias&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=000&border_color=8A2BE2&icon_color=30A3DC&title_color=6A5ACD&text_color=7CFC00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSoaresDias&theme=transparent&bg_color=000&border_color=8A2BE2&show_icons=true&icon_color=30A3DC&title_color=6A5ACD&text_color=7CFC00"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSoaresDias&layout=compact&langs_count=10&theme=transparent&bg_color=000&border_color=8A2BE2&title_color=6A5ACD&text_color=7CFC00"/>
 </div>
   
